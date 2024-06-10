@@ -1,5 +1,5 @@
 # mycalcultor-project
 This is a my calcultor_project
 
-This project owwner Hanuman Gurjar 
+This project owner Hanuman Gurjar 
  
